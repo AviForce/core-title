@@ -1,0 +1,13 @@
+title:
+  enabled: true
+  main: "&8↘ &#fb8d5eA&#fb9561v&#fc9d64i&#fca567F&#fcae6ao&#fcb66dr&#fdbe70c&#fdc673e &8↙"
+  sub: "&7www.AviForce.su"
+  time: 25 | 40 | 10
+
+message:
+  enabled: false # Only lobby settings
+  text:
+    - '&6строка 1 %vault_group%'
+    - 'строка 2'
+    - '&x&f&b&9&7&3&cС&x&f&b&a&4&3&4т&x&f&c&b&1&2&cр&x&f&c&b&e&2&4о&x&f&c&c&b&1&cк&x&f&d&d&8&1&4а &x&f&d&e&5&0&c3'
+
